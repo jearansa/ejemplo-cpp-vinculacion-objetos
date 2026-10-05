@@ -38,9 +38,9 @@ int main (){
 
     // El hecho de que internamente se use el constructor de copia, y de que
     // nosotros no lo hayamos definido, implica que en algunos casos el mismo
-    // podr�a tener un comportamiento an�malo, y no realizar las copias de forma
+    // podría tener un comportamiento an�malo, y no realizar las copias de forma
     // adecuada; puedes encontrar una explicaci�n detallada en
-    // http://www.cplusplus.com/articles/y8hv0pDG/
+    // https://cplusplus.com/articles/y8hv0pDG/
 
     system ("PAUSE");
     return 0;
